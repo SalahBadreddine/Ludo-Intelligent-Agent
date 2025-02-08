@@ -5,6 +5,6 @@ Ludo Intelligent Agent
 ## 2. Description
 A simple intelligent agent for Ludo that makes strategic decisions based on game rules and possible moves. It aims to optimize movement and increase the chances of winning by evaluating board states.
 ## 3. Features
-Implements basic decision-making for Ludo.
-Evaluates available moves based on game rules.
-Prioritizes strategic actions such as safe moves and captures.
+* Implements basic decision-making for Ludo.
+* Evaluates available moves based on game rules.
+* Prioritizes strategic actions such as safe moves and captures.
